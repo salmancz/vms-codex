@@ -1,0 +1,1 @@
+export const apiModules = ['auth','organizations','users','roles','locations','gates','departments','employees','visitors','visits','visitor-types','notifications','reports','audit','files','health'];
