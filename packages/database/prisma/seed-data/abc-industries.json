@@ -1,0 +1,8 @@
+{
+  "organization": { "name": "ABC Industries", "slug": "abc-industries", "timezone": "Asia/Kolkata", "country": "IN", "currency": "INR" },
+  "locations": [{ "name": "Coimbatore Plant", "city": "Coimbatore", "state": "Tamil Nadu" }],
+  "gates": [{ "name": "Main Gate", "code": "MAIN" }, { "name": "Visitor Gate", "code": "VISITOR" }, { "name": "Gate 2", "code": "GATE-2" }],
+  "departments": ["HR", "Admin", "Maintenance", "Production", "Sales", "IT"],
+  "visitorTypes": ["Customer", "Vendor", "Contractor", "Interview", "Delivery", "Consultant", "Guest"],
+  "sampleVisit": { "visitor": "Raj Kumar", "company": "ABC Engineering", "host": "Suresh Kumar", "purpose": "Machine inspection", "passNumber": "V-2026-000182" }
+}

@@ -1,0 +1,1 @@
+export default function AdminDashboard() { return <main className="p-8"><h1 className="text-2xl font-semibold">Visitor Operations</h1><p>Visitors today, expected visitors, currently inside, approvals, overstays and reports.</p></main>; }
